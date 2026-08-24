@@ -37,7 +37,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeredpoi&theme=dark&show_icons=true&hide_border=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Jeredpoi&theme=dark&show_icons=true&hide_border=true&locale=ru">
 </p>
 
 ###
@@ -48,6 +48,11 @@
 
 ###
 
+<!--
+  Блок ниже — "змейка" из коммитов. Работает только после настройки
+  отдельного GitHub Actions workflow (см. предыдущие шаги в чате).
+  Пока не настроишь — можно удалить этот блок целиком.
+-->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeredpoi/Jeredpoi/refs/heads/output/github-contribution-grid-snake-dark.svg" />
